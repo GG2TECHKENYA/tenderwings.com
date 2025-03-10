@@ -137,7 +137,7 @@
   <!-- Sidebar -->
   <div class="sidebar" id="sidebar">
     <img src="logotw.png" alt="Tender Wings Home Logo">
-    <a href="index.php"><i class="fas fa-home"></i> <span class="sidebar-text">Home</span></a>
+    <a href="main.php"><i class="fas fa-home"></i> <span class="sidebar-text">Home</span></a>
     <a href="#contact"><i class="fas fa-envelope"></i> <span class="sidebar-text">Contact</span></a>
   </div>
 
