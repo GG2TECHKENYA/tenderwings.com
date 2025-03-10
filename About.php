@@ -225,7 +225,7 @@
   <!-- Sidebar -->
   <div class="sidebar" id="sidebar">
     <img src="logotw.png" alt="Tender Wings Home Logo">
-    <a href="index.php"><i class="fas fa-home"></i> <span class="sidebar-text">Home</span></a>
+    <a href="main.php"><i class="fas fa-home"></i> <span class="sidebar-text">Home</span></a>
     <a href="#about"><i class="fas fa-info-circle"></i> <span class="sidebar-text">About</span></a>
     <a href="#programs"><i class="fas fa-project-diagram"></i> <span class="sidebar-text">Programs</span></a>
     <a href="#get-involved"><i class="fas fa-hands-helping"></i> <span class="sidebar-text">Get Involved</span></a>
